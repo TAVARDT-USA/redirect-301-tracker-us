@@ -5,7 +5,7 @@
 
 Audits redirect paths, infinite loop detection, link equity conservation, and crawl budget efficiency.
 
-Developed and maintained by the search systems engineering and crawl efficiency division of **TAVARDT USA**.
+Developed and maintained by the search systems engineering and crawl efficiency division of **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python redirect_tracker.py https://company.com -json
 For full web verification and deep redirect chain inspections:
 
 * **Official Redirect Checker Tool**
-* **TAVARDT USA Enterprise Portal**
+* **TAVARDT Enterprise Portal**
 
 ***
 
 ## Technical SEO and Site Migration Advisory
 
-For enterprise platform migrations aligning with W3C Recommendations and IETF RFC 9110 Specifications, contact the specialists at **TAVARDT USA**.
+For enterprise platform migrations aligning with W3C Recommendations and IETF RFC 9110 Specifications, contact the specialists at **TAVARDT**.
 
 ***
 
